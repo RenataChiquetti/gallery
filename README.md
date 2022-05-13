@@ -3,7 +3,7 @@
 ## Running the backend
 
 ### Go to backend folder and  open a terminal, then run with
-```docker-compose up -d -build```
+```docker-compose up -d --build```
 ```docker-compose exec web python app.py create_db```
 
 ## Runnign the frontend
